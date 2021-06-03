@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case and vindication of William Knight, late minister of Whitbey in the county of York Wherein are discovered the design, means, and instruments of his sequestration, which happened on the 28 of December 1652. at the Committee for Plundred Ministers, Mr. Gilbert Millington being in the chair.</title>
+            <author>Knight, William, minister of Whitby.</author>
+         </titleStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87813</idno><idno type="EEBO-CITATION">99896334</idno>
+  <idno type="VID">154235</idno>
+  <idno type="EEBO-PROQUEST">2240922354</idno>
+  
+            <idno type="STC">Wing K694B</idno>
+            <idno type="STC">ESTC R212945</idno>
+            <idno type="PROQUEST">99896334</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99896334e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87813)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154235)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2406:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case and vindication of William Knight, late minister of Whitbey in the county of York Wherein are discovered the design, means, and instruments of his sequestration, which happened on the 28 of December 1652. at the Committee for Plundred Ministers, Mr. Gilbert Millington being in the chair.</title>
+                  <author>Knight, William, minister of Whitby.</author>
+               </titleStmt>
+               <extent>[6], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year. 1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Clergy --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154235:1"/>
+            <pb facs="tcp:154235:1"/>
+            <p>THE CASE AND VINDICATION OF WILLIAM KNIGHT, Late Minister of <hi>Whitbey</hi> in the County of <hi>York.</hi>
+            </p>
+            <p>
+               <hi>Wherein are discovered the Design, Means, and Instruments of his Sequestration, which happened on the</hi> 28 <hi>of</hi> De<g ref="char:EOLhyphen"/>cember 1652. <hi>at the Committee for Plundred</hi> Ministers, <hi>Mr.</hi> Gilbert Millington <hi>being in the</hi> Chair.</p>
+            <p>LONDON, Printed in the Year. 1653.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:154235:2"/>
+            <pb facs="tcp:154235:2"/>
+            <head>To the Supreme Authority the PARLIAMENT of the COMMON-VVEALTH of ENGLAND.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>IT may be wondred at, that a Person of my lowness and obscurity should adventure on so extraordinary a way of vindicating my self, and address my self to the judgement of an Authority so far above me. But if it be withall considered that I approach this Tribunal with the incouragement of my innocency, and that <hi>right</hi> to <hi>justice,</hi> which I have equal with any other, the wonder may cease; and it may be thought that they are not or<g ref="char:EOLhyphen"/>dinary sufferings that have inforced me to this extraordi<g ref="char:EOLhyphen"/>nary appeal, and that the redress I expect cannot be else<g ref="char:EOLhyphen"/>where obtained. As for the expressions of this remon<g ref="char:EOLhyphen"/>strance I hope no man will think they proceed from ran<g ref="char:EOLhyphen"/>cour, or an itch to be satyrical with any mans person; but what is here said of any man is seriously and soberly spoken, and it may be, in such words as reach not their actions. The least oppression of any man though never so poor is of publick concernment, since what one suffers without redress, may be exercised in time on many: <hi>Go<g ref="char:EOLhyphen"/>vernment</hi> and <hi>acting</hi> by <hi>will</hi> and <hi>prerogative</hi> is that which we have spent our bloud to destroy, and which we all condemn when we suffer thereby. Men <hi>corrupt</hi> and acting <hi>crookedly</hi> in their places are the <hi>diseases</hi> and <hi>deformity</hi> of the Common-wealth, and therefore <hi>Justice</hi> is compar'd
+<pb facs="tcp:154235:3"/>to a <hi>torrent,</hi> or <hi>mighty stream,</hi> both in regard its constant swift <hi>motion</hi> prevents all <hi>corruption,</hi> and its <hi>force</hi> and <hi>fierceness</hi> carries away the designs and <hi>Machinations</hi> of the <hi>mighty</hi> to their own confusion.</p>
+            <p>If in this relation I have discovered the <hi>byassed</hi> actions of any man, who by his <hi>Interest</hi> and <hi>power</hi> thinks to <hi>elude</hi> the <hi>inquisition</hi> of his <hi>injustice</hi> and <hi>oppression,</hi> I conceive my life to have done as much as if I had destroy'd a fa<g ref="char:EOLhyphen"/>tal <hi>monster,</hi> or defeated in the field, an open enemy to the <hi>publick.</hi> What ever I have done I humbly submit my self to the judgement of this Honourable Assembly: If I have deserved the sentence of the Committee for plundered <hi>Ministers,</hi> I shall as willingly imbrace the con<g ref="char:EOLhyphen"/>firmation of it, as I hope a speedy redress if I have not. What ever become of me, since I can suffer no greater things then I have already long since endured for your cause, I shall as zealously and as heartily for the future spend my self in the advancement of this Common<g ref="char:EOLhyphen"/>wealth as I have already, either by Sea or Land, as pro<g ref="char:EOLhyphen"/>vidence shall be pleased to dispose of</p>
+            <closer>
+               <salute>Right Honourable,</salute>
+               <lb/>
+               <signed>
+                  <hi>Your most Faithfull, most<lb/> Humble and most devote<lb/> Servant.</hi>
+                  <lb/> WILL. KNIGHT.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:154235:3"/>
+            <head>To the Supream Authority the PARLIAMNT Of the Common-Wealth of ENGLAND.</head>
+            <head>
+               <hi>The humble Petition of</hi> William Knight, <hi>late Minister of</hi> Whitbey <hi>in the County of</hi> York.</head>
+            <p>
+               <hi>Humbly sheweth,</hi>
+            </p>
+            <p>THat your Petitioner having officiated in the Town of <hi>Whit<g ref="char:EOLhyphen"/>bey</hi> as Lecturer for the space of two years, in the year <hi>1649.</hi> the Inhabitants drew up a Petition to the Committee for plundered <hi>Ministers</hi> for his settlement among them as their <hi>Minister.</hi>
+            </p>
+            <p>That your Petitioner having delayed the obtaining of the subscri<g ref="char:EOLhyphen"/>ptions of the neighbouring <hi>Ministers,</hi> (which he was told was necessa<g ref="char:EOLhyphen"/>ry) till the day that the ship he did imbarque in for <hi>London</hi> was to set sail, he was perswaded by one Mr. <hi>Lovingstone</hi> and Mr. <hi>Young,</hi> (whose free subscriptions he had already gained) to make use (in that extremity) of the hands of one Mr. <hi>Hicks,</hi> and one Mr. <hi>Bushel,</hi> to a Certificate of his Abilities and good conversation, they being such as would not have denied him the right hand of fellowship; which presum<g ref="char:EOLhyphen"/>ption he acquainted them with, by a Letter wherein was inclosed a Co<g ref="char:EOLhyphen"/>py of the Certificate, and was owned by the said Mr. <hi>Hicks.</hi>
+            </p>
+            <p>That being come to <hi>London,</hi> in regard of his unacquaintance with the proceedings of the Committee for plundred <hi>Ministers,</hi> he imployed one <hi>Wilson</hi> for the procuring of an order of settlement, which within some weeks he brought him.</p>
+            <p>That being returned with this order he officiated quietly till <hi>Sept.</hi> following, at which time by an order from the Committee for plundred <hi>Ministers</hi> directed, to the Committee at <hi>York</hi> he was sent for thither and charged with the forgery of the said order and sent to prison, whence after a fortnights stay he was translated to the Committee for plun<g ref="char:EOLhyphen"/>dred <hi>Ministers,</hi> to answer what should be laid to his charge as to that order; where he pleading that he had imployed one <hi>Wilson</hi> in the pro<g ref="char:EOLhyphen"/>curing of it, but not producing the said <hi>Wilson,</hi> and for that he was also charged with the presumption of the foresaid Certificate by one <hi>Conyers</hi> and Mr. <hi>Adoniram Byfield</hi> he was taken into custody, where he continued a moneth till the Committee, sensible of his weak<g ref="char:EOLhyphen"/>ness and surprisal in the one, and satisfied of his innocenty in the other, ordered him to be set at Liberty.</p>
+            <p>That being at Liberty he went <hi>Minister</hi> in the Ship, whereof Capt. <hi>Bodelay</hi> was Captain and continued in that service <hi>12</hi> moneths.</p>
+            <pb facs="tcp:154235:4"/>
+            <p> That at his return hearing that the said <hi>Wilson</hi> was for some noto<g ref="char:EOLhyphen"/>rious crimes in <hi>New-gate,</hi> and that <hi>Whitbey</hi> had all the time of his absence been utterly unsupplied, he was desired to apply himself afresh to the Committee, which he did bringing the acknowledgement of the said <hi>Wilson,</hi> and producing other Certificates, as also a new Petition from the Inhabitants of <hi>Whitbey,</hi> whereupon he was by an Order of <hi>Decemb. 11. 1650.</hi> fully setled in the place.</p>
+            <p>Yet so it is, Right Honourable, that notwithstanding all these pro<g ref="char:EOLhyphen"/>ceedings in <hi>July</hi> last, there were Articles exhibited against him at the Committee for plundred <hi>Ministers,</hi> four whereof relate to the foresaid Certificate and forged Order, and an <hi>8.</hi> charges him with drunkenness, libelling, <hi>&amp;c.</hi> by means whereof he was sequestred on the <hi>28</hi> day of <hi>December</hi> last.</p>
+            <p>Now in regard the Committee had formerly clear'd your Petitio<g ref="char:EOLhyphen"/>ner, both as to the Certificate and Order aforesaid, by their Or<g ref="char:EOLhyphen"/>der of <hi>December 11. 1650.</hi> And that the witnesses against him to the <hi>8.</hi> Art. are all prophane persons and of evil conversation, and known Malignants, and by a Malignant design suborned against him, and their informations utterly false, as he can make appear.</p>
+            <p>He humbly prayes since he is not of the meanest of those that have appeared to rescue this Nation from <hi>unjust</hi> and <hi>usurp<g ref="char:EOLhyphen"/>ing</hi> powers, that your Honours would not suffer him to be un<g ref="char:EOLhyphen"/>justly crush'd by the malicious designs of potent enemies, but grant him that countenance and redress, which you in your High wisdoms shall think the justice of his cause may de<g ref="char:EOLhyphen"/>serve.</p>
+            <closer>
+               <hi>And he shall (as in duty bound ever pray)</hi> &amp;c.</closer>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:154235:4"/>
+            <head>The CASE and VINDICATION Of WILLIAM KNIGHT, Late Minister of <hi>Whitbey</hi> in the County of <hi>York.</hi>
+            </head>
+            <p>
+               <hi>Wherein are discovered the Design, Means, and Instruments of his Sequestration, which happened on the</hi> 28 <hi>of</hi> De<g ref="char:EOLhyphen"/>cember 1652. <hi>at the Committee for Plundred</hi> Ministers, <hi>Mr.</hi> Gilbert Millington <hi>being in the</hi> Chair.</p>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I consider the carriage of my life, even from the first dawnings of reason and consideration, that eve<g ref="char:EOLhyphen"/>ry man ought to have of the end he is to aim at in this World. I cannot but observe how that <hi>Provi<g ref="char:EOLhyphen"/>dence,</hi> which disposeth every man to be an instru<g ref="char:EOLhyphen"/>ment of <hi>good</hi> or <hi>evil,</hi> according to its <hi>decrees,</hi> hath carried me on in all my actions, to indeavour the promotion of the <hi>publick good,</hi> before any <hi>private interest</hi> of mine own.</p>
+            <p>And this I must acknowledge was that, that made meat once forsake my friends and Countrey, and insensibly drew me on to be one of the earliest ingagers in that cause, which for its enemy had an usurping power in Church and State. Wherein I can give no greater evidence of my forwardness than my Personal ingaging in fifteen Battels and Skirmishes in <hi>England</hi> and <hi>Ireland,</hi> not to mention my sufferings otherwise, and particularly, my inprison<g ref="char:EOLhyphen"/>ment at <hi>Durham</hi> and <hi>York,</hi> by the late Kings forces, where after the Torment of 24 hours <hi>Neck</hi> and <hi>Heel's,</hi> I remained without any
+<pb n="2" facs="tcp:154235:5"/>allowance near four moneths, and of 200 <hi>English</hi> and <hi>Scots</hi> pri<g ref="char:EOLhyphen"/>soners, was one of the last exchang'd.</p>
+            <p>However, I continued in my fidelity and service to the Parlia<g ref="char:EOLhyphen"/>ment, till the beginning of the year 1645. when it pleased <hi>that spi<g ref="char:EOLhyphen"/>rit which bloweth where it listeth</hi> to call me to the exercise of those gifts, which my engagement in the Wars had somewhat smothered; and that this also was the work of the fame <hi>providence</hi> I cannot doubt, when I consider it happened in such parts of <hi>York-shire,</hi> as had not yet shaken off the darkness and implicity of <hi>Episcopal</hi> times, and observe the success it pleased God to grant my teach<g ref="char:EOLhyphen"/>ings and instructions, to the advancement of piety, and his Go<g ref="char:EOLhyphen"/>spel.</p>
+            <p>In this imployment I spent my self till the year 1647. at which time God put it into the hearts of the Inhabitants of <hi>Whitbey,</hi> to desire my removeal from the part where I then exercised to come among them, whither, to satisfie the importunity of the well-affected of that place, I consented to come, and there I officiated as Lecturer (onely on Wednesdays) till 1649. requiring nothing towards my subsistance but the free Contributions of the well-affe<g ref="char:EOLhyphen"/>cted, while one Mr. <hi>Wood</hi> (formerly sequestred for his misde<g ref="char:EOLhyphen"/>meanours and malignancy) intruded into the office of preaching on the Lords days.</p>
+            <p>These things being observed by one Mr. <hi>Richard Conyers,</hi> he by the strength of his friends and interest in the Parish obtains ad<g ref="char:EOLhyphen"/>mittance to officiate there, till some one were lawfully settled in the place, not doubting to receive the profits thereof for the time he should continue so doing.</p>
+            <p>But the said <hi>Conyers</hi> having at no great distance a benefice of 100 Marks <hi>per ann.</hi> and not able to discharge himself of both, he desired my assistance at <hi>Whitbey,</hi> so far onely as to preach the morning Sermon, he himself being oblig'd to preach in the after<g ref="char:EOLhyphen"/>noon, promising me, before divers of the Parish for my said assi<g ref="char:EOLhyphen"/>stance, the sum of 24 <hi>lib.</hi> by the year, whereto I consented, as being not yet publickly called to the Ministry, and living on the private allowances of the well-affected, whose intreaties had brought me thither.</p>
+            <p>But so far was the said <hi>Conyers</hi> from performing either part of
+<pb n="3" facs="tcp:154235:5"/>the Covenant betwixt us, that as to the former, I must confess, he observed it for about three moneths, but for the remainder of the year, he hardly appeared on the place; And for the latter I had fair words, but not one peny satisfaction to this day.</p>
+            <p>These crooked dealings of the said <hi>Conyers</hi> moved the inhabi<g ref="char:EOLhyphen"/>tants of <hi>Whitbey,</hi> to draw up a Petition to the Committee for <hi>plun<g ref="char:EOLhyphen"/>dred Ministers</hi> for my setlement among them. Having the Peti<g ref="char:EOLhyphen"/>tion of the Town and Parish put into my hands, I was told that there was requisite withall a Certificate from some neighbouring Ministers to testifie my abilities and good conversation. Now it happened through my little acquaintance in affairs of this nature, that I had delayed my applications to the neighbouring Ministers of my acquaintance till the day of my departure; which being to be by Sea, and that the ship wherein I was to embark was to set sayl the same day, I was perswaded by Mr. <hi>Levingstone</hi> &amp; Mr. <hi>Young,</hi> (whose subscriptions I had then obtained) to make use, in this ex<g ref="char:EOLhyphen"/>tremity, of the hands of one Mr. <hi>Hicks</hi> and one Mr. <hi>Bushel,</hi> which upon confidence of their condescention I consented should be done, and accordingly Mr. <hi>Young</hi> put down their hands to the Certificate, while I writt a Letter to each of them, wherein was inclosed a Copy of the Certificate to acquaint them what I had done. VVhich presumption of mine Mr. <hi>Hicks</hi> owned since by a Letter to me, and acknowledged this my confidence of his frind<g ref="char:EOLhyphen"/>ship as a favour, before Mr. <hi>Luke Robinson,</hi> and Mr. <hi>Thornton</hi> at <hi>Pickering,</hi> and for Mr. <hi>Bushell,</hi> though I must confess I received nothing from him in return to my Letter, yet I believe he had not disavow'd it, had he not been surprised in the business by the said <hi>Conyers.</hi>
+            </p>
+            <p>Being come to <hi>London,</hi> I was no sooner lodged, but one Mr. <hi>Wil<g ref="char:EOLhyphen"/>son</hi> having heard something of the occasion of my coming up, sent for me, pretending great readiness to further my business. And to perswade me how effectual his assistance might be to me, he pre<g ref="char:EOLhyphen"/>tended to be a constant Sollicitour at the Committee for <hi>plundred Ministers,</hi> and no less than Cosin to Mr. <hi>Gilbert Millington</hi> the <hi>then</hi> perpetual <hi>Chair-man</hi> there. By which pretences, my weakness and ignorance of the affairs of the said Committee being wrought upon and overcome, I delivered him what papers and instructions
+<pb n="4" facs="tcp:154235:6"/>I conceived requisite for obtaining an Order of setlement at <hi>Whit<g ref="char:EOLhyphen"/>bey,</hi> having upon his undertaking of my business given him to<g ref="char:EOLhyphen"/>wards Clarks Fees, and other expences as he pretended was neces<g ref="char:EOLhyphen"/>sary 2 <hi>lib.</hi> 10 <hi>s.</hi> and left order for the payment of 7 <hi>lib.</hi> more when the order was taken out, for his Sollicitation therein.</p>
+            <p>Having thus referred my business to the said <hi>Wilson,</hi> I appeared not my self in it, and so within a short time he brought me the or<g ref="char:EOLhyphen"/>der and received the said sum of 7 <hi>lib:</hi> By virtue of the said Order, I officiated at <hi>Whitbey</hi> till <hi>September</hi> following, about which time, by an order of the Committee for <hi>plundred Ministers,</hi> directed to the Committee at <hi>York,</hi> I was sent for thither, where appearing, I was charged with the forgery of the foresaid Order, but having no other plea then that I knew nothing but that it was a true or<g ref="char:EOLhyphen"/>der, and that in the procuring of it I had imployed the Sollicita<g ref="char:EOLhyphen"/>tion of one <hi>Wilson</hi> (though <hi>Colonel Fairfax,</hi> one of the Commit<g ref="char:EOLhyphen"/>tee upon sight of it affirmed that he had seen many Orders in that hand before.) I was committed to <hi>York</hi> prison, where having re<g ref="char:EOLhyphen"/>mained some time, I desired to be translated to <hi>London,</hi> to answer what might be laid to my charge in that particular, which, having put in good security for my appearance before the Committee for <hi>plundred Ministers,</hi> with much ado, I obtained.</p>
+            <p>Appearing before the said Committee, I was afresh charged with the forgery of the said Order, to which my answer being the same as before, and that I could not produce the said <hi>Wilson,</hi> I was ordered into custody. Now it happened so that the aforesaid <hi>Co<g ref="char:EOLhyphen"/>nyers</hi> (a man of a very inquisitive, and active malice against me, for what reasons I know not) having by some means or other fished out, that Mr. <hi>Hicks,</hi> and Mr. <hi>Bushell's</hi> hands were onely by presumption at my Certificate (as I have before acknowledged) takes a journey to <hi>London,</hi> and brings it at the same time upon the stage before the Committee, which aggravating what was laid to my charge before, (for which I am obliged <hi>besides</hi> Mr. <hi>Co<g ref="char:EOLhyphen"/>nyers to</hi> Mr. <hi>Adoniram Byfield</hi>) rendered me the more criminal in the sence of the Committee, so that upon the charge both of the Order and Certificate I continued in custody the space of a moneth or better, till at last the Committee considering my weak<g ref="char:EOLhyphen"/>ness and surprisal in the one, and having some perswasion of
+<pb n="5" facs="tcp:154235:6"/>my innocency in the other, ordered me to be set at Liberty.</p>
+            <p>But I cannot omit the advantage the said <hi>Conyers</hi> made of all this. During my restraint he Petitions the Committee for the pro<g ref="char:EOLhyphen"/>fits of the year 1649. (but 60 <hi>lib.</hi>) wherein I had born all the burden, but what is before mentioned, and for which by his own agreement I was to receive 24 <hi>lib.</hi> VVhat he desired was accord<g ref="char:EOLhyphen"/>ingly granted; but as for the Petition he brought up to the Com<g ref="char:EOLhyphen"/>mittee upon that occasion, as from the Town of <hi>Whitbey,</hi> I must confess I am much dissatisfied, it being subscribed by onely some nine or ten Malignants; and a greater miracle to me yet, was, to conceive how the <hi>Town-seal</hi> came to be at it, having, upon a strict inquiry, never yet met with any one of the Town that was privy thereto, it being a thing not granted, but on occasions that con<g ref="char:EOLhyphen"/>cern the whole Town, and that at a full convention of the 24 Bur<g ref="char:EOLhyphen"/>gesses.</p>
+            <p>But he was not content with the obtaining of the profits as aforesaid, though undeservedly, but to take a full and final re<g ref="char:EOLhyphen"/>venge of me, I do much suspect he <hi>indented</hi> with Mr. <hi>Phelpes,</hi> that the order for my Liberty should be so drawn up, as that I was to be bound in 300 <hi>lib.</hi> never to preach at <hi>Whitbey</hi> more; these being courtesies which Mr. <hi>Phelpes</hi> can do with a <hi>wet finger,</hi> though con<g ref="char:EOLhyphen"/>trary to the sence of the Committee, when he hath a minde to plea<g ref="char:EOLhyphen"/>sure a friend, and to draw a FULL order.</p>
+            <p>But having obtained my Liberty without submission to this order, I had not been many days abroad, but Captain <hi>Bodelay</hi> being designed for <hi>Lisbone</hi> to reduce the ships there under P. <hi>Ru<g ref="char:EOLhyphen"/>pert,</hi> sent for me, and proposed to me the Chaplain-ship of the ship he then went in (the <hi>Happy Enterance,</hi>) which out of the zeal I ever had to serve the publick, and to give way to the storm of my misfortunes, I accepted of. And in that service (wherein we met with three very hot ingagements) I spent a whole year till the said ship returned.</p>
+            <p>Being come ashore at <hi>Detford,</hi> I came up to <hi>London,</hi> where I understood that <hi>Whitbey</hi> had all that time been unsupplied of a Mi<g ref="char:EOLhyphen"/>nister. But here I must take notice of a remarkable tract of provi<g ref="char:EOLhyphen"/>dence. The foresaid <hi>Wilson,</hi> who had betrayed me into all my ca<g ref="char:EOLhyphen"/>lamities, was by an Order of the <hi>Councel</hi> of <hi>State,</hi> for some noto<g ref="char:EOLhyphen"/>rious
+<pb n="6" facs="tcp:154235:7"/>crimes, committed to <hi>New-Gate.</hi> Understanding of his being there I applied my self afresh to the Committee, producing an acknowledgement from the said <hi>Wilson</hi> of my innocency as to the forgery of the Order. Nay, he so far cleared me of the least concurrence thereto, that with many imprecations he avowched the same to be a real Order, saying, that if he were brought before the Committee, he was confident Mr. <hi>Millington</hi> would not deny the Order, which assertion I gave the greater credit to, for that some of <hi>Whitbey</hi> had told me, that they, out of a particular desire to be satisfied in that point, had, upon search, found that very Or<g ref="char:EOLhyphen"/>der entered into some of the Clarks books about <hi>Westminster,</hi> which if so, I may say that it is not impossible that Clarks may as well stifle Orders at their pleasure, as deprave the sence of the Committee, according as the parties shall sacrifice.</p>
+            <p>This acknowledgement being acccepted by the Committee, I produced this following Certificate.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="certificate">
+                        <opener>
+                           <dateline>
+                              <date>March 27. 1650.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>We whose names are hereunto subscribed, being neighbouring Mi<g ref="char:EOLhyphen"/>nisters to the Town of</hi> Whitbey, <hi>in the County of</hi> York, <hi>do certifie to all whom it may, concern, that</hi> Mr. William Knight, <hi>late Minister of that Town was a man of honest life and godly conversation, and as befitted a Minister of the Gospel, behaved himself in a way of la<g ref="char:EOLhyphen"/>bouriousness, and sound preaching while he aboad there, that we were very ready to give him the right hand of fellowship, and imbrace him as a fellow-labourer in the</hi> Lords <hi>Vine-yard, and in our appre<g ref="char:EOLhyphen"/>hensions he did much good by his Ministery, while he was there, and is much wanted now he is absent, and would be gladly received, and might do much good for the future if he may be permitted to return to the said Town. Given under our hands the day and year above written.</hi>
+                        </p>
+                        <closer>
+                           <signed>William Simpson Clark. George Emot Minister of <hi>Glaisdale.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This Certificate from the foresaid Ministers was back'd with this testimonial from Mr. <hi>Slater,</hi> and Mr. <hi>Kentish.</hi>
+            </p>
+            <q>
+               <pb n="7" facs="tcp:154235:7"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="testimonial_letter">
+                        <opener>
+                           <dateline>
+                              <date>December 11. 1650.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>These are to certifie whom it may concern that the bearer hereof</hi> Mr. William Knight <hi>is a man of whose abilities in preaching we have had good experience, and do conceive him to be sound in Doctrine and sincere in life and conversation, and likely to prove an usefull instru<g ref="char:EOLhyphen"/>ment to promote the glorie of God, and the good of Souls. In witness whereof we have hereunto set our hands.</hi>
+                        </p>
+                        <closer>
+                           <signed>Sam. Slater. Rich. Kentish. <hi>Ministers of</hi> Ca<g ref="char:EOLhyphen"/>therin's <hi>London.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>But further to inform the Committee how I had spent my self since I had last appeared before them as a Criminel, I produced this Certificate from Captain <hi>Bodelay.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="certificate">
+                        <p>
+                           <hi>These are to certifie whomsoever it may concern, that the bearer hereof</hi> Mr. William Knight <hi>went forth with me on my last expedi<g ref="char:EOLhyphen"/>tion in the</hi> States <hi>ship, called the</hi> Happy Enterance, <hi>and continued with me about twelve moneths the term of the voyage, in which time his deportment and behaviour was civil, and according to his profes<g ref="char:EOLhyphen"/>sion, and also that he was industrious to preach the Word among us whensoever opportunity presented.</hi>
+                        </p>
+                        <closer>
+                           <signed>Ric. Bodelay.</signed>
+                           <dateline>Dated near <hi>London,</hi>
+                              <date>the 11.<lb/> of <hi>December</hi> 1650.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>But these Certificates were not yet sufficient, wherefore I was, for further Trial, referr'd to the examination of a Committee of the <hi>Assembly</hi> of <hi>Divines,</hi> who sent me back with this Certificate.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="certificate">
+                        <opener>
+                           <dateline>
+                              <date>December 12. 1650.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>According to an Order dated the</hi> 11 <hi>of</hi> December 1650. <hi>from the Committee of the</hi> Parliament <hi>of</hi> England <hi>for plundred</hi> Ministers, <hi>to the Committee of the</hi> Assembly <hi>of</hi> Divines, <hi>for examination of</hi> VVill. Knight, <hi>to officiate the cure of the Church of</hi> VVhitbey <hi>in the County of</hi> York. <hi>These are to certifie the said Committee for plundred</hi> Mi<g ref="char:EOLhyphen"/>nisters, <hi>that upon examination of the said Mr.</hi> Knight, <hi>and some Trial of his gifts and abilities in the Ministry, we conceive him to be
+<pb n="8" facs="tcp:154235:8"/>fit to officiate the cure aforesaid. In witness whereof, we hereunto subscribed our names.</hi>
+                        </p>
+                        <closer>
+                           <signed>VVill. Carter. VVill. Reyner. John Dela March. Tho. Carter. Richard Byfield.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>These <hi>Certificates</hi> and <hi>Testimonials</hi> being considered, and the acknowledgement of the said <hi>Wilson</hi> accepted, as also a Petition from the inhabitants of <hi>Whitbey,</hi> read, produced the following Or<g ref="char:EOLhyphen"/>der for my settlement, whereby I conceive my self cleared of all things formerly laid to my charge, and least the malice of my ene<g ref="char:EOLhyphen"/>mies might bring any thing in judgement against me afterward, it was moved by that publick spirited Patriot Mr. <hi>Luke Robinson,</hi> that they might be quoted in the Order.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <opener>
+                           <dateline>
+                              <hi>At the Committee for plundred Ministers,</hi>
+                              <date>December 11. 1650.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>Whereas this Committee have the</hi> 18 <hi>of</hi> October 1649. <hi>committed</hi> VVilliam Knight, <hi>Minister of the Word, to the custody of the Ser<g ref="char:EOLhyphen"/>jeant at Arms attending the</hi> Parliament, <hi>for forging an Order of this Committee for setling him in the Church of</hi> VVhitbey, <hi>in the County of</hi> York, <hi>which the said</hi> Knight <hi>alleadgeth was given him by one</hi> John VVilson, <hi>but did not then produce the said</hi> VVilson, <hi>and it is now informed that the said</hi> VVilson <hi>is committed to</hi> New-gate <hi>for several notorious crimes, and that the said</hi> VVilson <hi>doth not deny, but that he gave the said Order to the said Mr.</hi> Knight; <hi>It is therefore ordered upon the Humble Petition of the Inhabitants of</hi> VVhitbey <hi>aforesaid, that the said</hi> VVilliam Knight, <hi>of whose piety and pastoral abilities this Committee hath received good testimony, do forthwith officiate the cure of the said Church of</hi> VVhitbey <hi>as Vicar, and preach dili<g ref="char:EOLhyphen"/>gently to the Parishioners there, and that he shall have for his pains therein the Vicarage house and Glebelands, and all the Tithes Rents, Duties, and Profits whatsoever of the said Vicarage, till further Or<g ref="char:EOLhyphen"/>der shall be taken in the premisses, and all person and persons are re<g ref="char:EOLhyphen"/>quired quietly to permit the said Mr.</hi> Knight <hi>to officiate the said cure, and to enter, possess, and injoy the said House and Glebelands, and to have, receive, and take to his own use all the Tithes, Rents, Duties, and
+<pb n="9" facs="tcp:154235:8"/>profits whatsoever of the said Vicarage, as they will answer the con<g ref="char:EOLhyphen"/>trary at their peril.</hi>
+                        </p>
+                        <closer>
+                           <signed>Gilbert Millington.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>VVith the foregoing Order I returned to <hi>Whitbey,</hi> where I had not long rested ere the spirit of envy entered the said <hi>Conyers,</hi> to make complaint to the Committee for plundered <hi>Ministers</hi> of my insufficiency, which procured an Order for another examination of me to be made by some neighbouring <hi>Ministers,</hi> but because it was by a subsequent Order discharged, without any thing done, I have the less to say to it.</p>
+            <p>Yet with this could I not be quiet, but such was the desire of my ruine in the said <hi>Conyers,</hi> and some others, that notwithstanding what had past, in <hi>July</hi> last, there were Articles exhibited against me at the Committee for plundred <hi>Ministers,</hi> subscribed by <hi>Rich. Conyers;</hi> to which, it was referr'd to three Justices in the Coun<g ref="char:EOLhyphen"/>trey, to examine, and cross-examine VVitnesses.</p>
+            <p>The Articles are too long, and too many to be inserted in this place, but what partiality was used against me at the examination taken at <hi>Whitbey,</hi> as also what hath been the issue of their return hither (though it be that which put me upon this extraordinary way of vindicating my self) I shall as briefly as I can lay down, and shew, through the whole carriage of this business, how op<g ref="char:EOLhyphen"/>pressive the interest of (not long since professed) Malignants may be to any honest man, though never so innocent, but more espe<g ref="char:EOLhyphen"/>cially when they are so fortunate in their insinuations as to corrupt those, who most immediately derive their Authority from the Parliament, and execute their malice on the well-affected by <hi>their</hi> hands that should protect them.</p>
+            <p>The first thing I shall note is the subtilty of my prosecutours in the choice of the Justices examinants, wherein I am particularly obliged to the industry of Sir <hi>Hugh Cholmeley,</hi> whom I have just reason to think the first wheel of this malicious prosecution against me, and to have set all the rest in motion, upon what grounds I shall in fit place mention.</p>
+            <p>One was Sir <hi>William Strickland, but</hi> a Brother in Law to the foresaid Sir <hi>Hugh.</hi> A second was <hi>Christopher Percehay</hi> Esquire, bro<g ref="char:EOLhyphen"/>ther
+<pb n="10" facs="tcp:154235:9"/>in Law to Sir <hi>William,</hi> the third <hi>Henry Hall</hi> Esq; whom I must confess to have brought much indifferency to the discussion of the business.</p>
+            <p>Secondly, I expected the Justices should not have been courted at so great a distance; as Sir. <hi>William Strickland,</hi> who lives 24 <hi>York<g ref="char:EOLhyphen"/>shire</hi> miles from <hi>Whitbey;</hi> Mr. <hi>Percehay</hi> 19. and Mr. <hi>Hall</hi> 26. there being three, or more Justices within 14 miles of the place.</p>
+            <p>Thirdly, as to the VVitnesses against me, I expected they should have been such as lived within a proportionate distance, as being the more competent informers as to matter of fact, and such as had known my conversation; and made a conscience of their actions; But I found some faces I knew not, Malignants, Servants, or in some way Relatives to the Family of the <hi>Cholmleys.</hi> But I shall not Charactarize them till I come to the 8 Article, to which they most spoke.</p>
+            <p>Fourthly, I looked for an equal freedom to produce VVitnesses for me, as well as my prosecutours had to produce against me. All that they brought, though many of them <hi>precarious,</hi> and such as I shall hereafter describe them, were freely received, upon bare assertions; whereas of 40 that were come to the place on my be<g ref="char:EOLhyphen"/>half, though honest men, and such as proffered their informations upon Oath, there were admitted but 7 to testifie.</p>
+            <p>Lastly, I could expect no less than a true return of the exami<g ref="char:EOLhyphen"/>nation, but there I am also deceived; For I finde many things passed at <hi>Whitbey</hi> omitted, and some things sent up under my name as confessed by me, which I never affirmed.</p>
+            <p>The examination thus returned being to be debated on Thurs<g ref="char:EOLhyphen"/>day <hi>Decemb.</hi> 23. it so hapned that upon reading what was said to the 8 Art. I found (the more to surprise me in my defence as I conceive) that the Copy of the examination taken from Mr. <hi>Phelpes,</hi> wanted the informations to the 8 Art. all save one. Upon which it was moved, that I might have a true Copy of the examination, and that the debate might be referr'd to another day, which was to be the Thursday following.</p>
+            <p>I must confess, when I first understood that Mr. <hi>Millington</hi> was in the Chair, I promised my self the greater Justice, because he was the best acquainted with the business, I was now the <hi>third time</hi>
+               <pb n="11" facs="tcp:154235:9"/>to be charged with, &amp; might have remembred my sufferings at <hi>York</hi> and <hi>London,</hi> and the Committees acquital of me by the foremen<g ref="char:EOLhyphen"/>tioned Order of <hi>Decemb.</hi> 11. 1650. subscribed <hi>Gilbert Millington.</hi> But should I have wanted that expectation, yet I flattered my self with the hopes of a patient and unprejudiced debate. But here also I reckoned before my Host. For upon the first calling of the cause Mr. <hi>Millington</hi> bursts forth into his ordinary laughter, and says, <hi>O this is my Cosin,</hi> a posture certainly not so becoming a Judge, when the thing in debate concerns the lively-hood of a man and his relations. But by those words I conceive he was well acquaint<g ref="char:EOLhyphen"/>ed with the business to be debated, and had not forgotten Mr. <hi>Wil<g ref="char:EOLhyphen"/>son.</hi> Nor can I omit a strange expression of his the Thursday be<g ref="char:EOLhyphen"/>fore, when it was said that Mr. <hi>Luke Robinson,</hi> and the well-affect<g ref="char:EOLhyphen"/>ed of the County appeared for me, and that I had a Petition sub<g ref="char:EOLhyphen"/>scribed by 140 of the best affected of <hi>Whitbey,</hi> Mr. <hi>Millington</hi> answered; <hi>He may be the greater Knave for that.</hi> And when the said Petition was again offered to the Committee by certain Masters of ships of <hi>Whitbey,</hi> Mr. <hi>Millington</hi> asked them, <hi>what will you make him worse than he is;</hi> Which expressions speak no small pre<g ref="char:EOLhyphen"/>judice in him against me, and argue a strange forgetfulness of what had past under his own hand concerning me before. I may add to this the shortness of the debate, which not lasting a quarter of an hour was for the most part laugh'd out, &amp; abruptly cut off with Mr. <hi>Millingtons</hi> WITHDRAVV, the Committee having heard all that could be said against me, but very little of what was to be said for me. I do not say but Mr. <hi>Millington</hi> in others mens cases may be straight and unbyassed, but for my part I have just reason to fear my case was (in effect) judged before it was debated, and that I came up 200 miles, not to be heard, but to receive my doom.</p>
+            <p>And now I come to the Articles, which are in number 10. I shall pitch onely on those to which informations are given, and they are in a manner but two of the number, the 2 and the 8. The 2 concerns the forging of Mr. <hi>Hicks,</hi> and Mr. <hi>Bushels</hi> hands to a Certificate, to which I can make no other answer then what I have said pag. 3. which I think is sufficient. Upon the charge of the Order pretended to be forged by <hi>Wilson,</hi> and that Certifi<g ref="char:EOLhyphen"/>cate I suffered imprisonment at <hi>York</hi> and <hi>London,</hi> and conceive
+<pb n="12" facs="tcp:154235:10"/>my self acquitted by the aforesaid Order of <hi>Decemb.</hi> 11. 1650. Unless a man may be charged a new for an offence he hath once suffered for. And here I am to take notice of an <hi>Affidavit</hi> of the said <hi>Conyers,</hi> made before a Master of the <hi>Chancery</hi> to that pur<g ref="char:EOLhyphen"/>pose, <hi>viz.</hi> That Mr. <hi>Hicks,</hi> Mr. <hi>Bushel,</hi> Mr. <hi>Bradley had disavow'd to the said</hi> Conyers, <hi>the giving of their hands to one</hi> William Knight <hi>of</hi> Whitbey, <hi>and that therefore his making use of the said hands to a Certificate was forgery in the said</hi> Knight. To which I answer, that as for Mr. <hi>Hicks,</hi> and Mr. <hi>Bushel,</hi> I have already cleared up how it was, but as for M. <hi>Bradleys</hi> hand it was not at all at it, and he himself being at the examination at <hi>Whitbey,</hi> testified that he had never spoken with the said <hi>Conyers</hi> about any such Certificate. Therefore to requit him for his <hi>Affidavit,</hi> I say, that <hi>whereas</hi> Rich. Conyers <hi>maketh Oath that Mr.</hi> Bradley <hi>disavow'd a thing to him, whereof he had never any discourse with him, but sweareth it to be so upon other mens relations, the same is perjury in the said</hi> Conyers. And this perjury of his I must confess indeed, was so much ob<g ref="char:EOLhyphen"/>served at the examination that the Justices shook their heads at it, and utterly dismissed the <hi>Affidavit,</hi> yet by some means or other finde it shuffled into the examination returned.</p>
+            <p>To make this <hi>Affidavit</hi> authentick, there stands up a <hi>Letter<g ref="char:EOLhyphen"/>carrier,</hi> alias an <hi>Atturney,</hi> who affirmed the subscription of the <hi>Affidavit</hi> to be <hi>Conyer's</hi> own hand, and the Master of <hi>Chancery's</hi> to be his hand, and of another thing subscribed by <hi>John Phelpes,</hi> af<g ref="char:EOLhyphen"/>firms that to be the <hi>proper</hi> hand of the said <hi>John Phelpes;</hi> in all which there is no great miracle, for the man hath of a long time been so well acquainted with other mens hands, and their seals too, that some body did penance for it with a piece of white paper on <hi>Whitbey</hi>-cross.</p>
+            <p>The heaviest charge against me, is what is said to the 8 Article, which at first sight seems to be very horrid. The words are. <hi>That he is a notorious drunkard, a Libeller, a persecuter of the growing light, and very deficient both in Morals and Intellectuals.</hi>
+            </p>
+            <p>And to this Article there speaks first one <hi>Thomas Redhead</hi> of <hi>Stantondale,</hi> who says he saw me drunk about six or seven years since (where he hath forgotten) to omit that he speaks at six and seven; thus much I must say of him, that he was ever a very zealous
+<pb n="13" facs="tcp:154235:10"/>Malignant, a creature of Sir <hi>Hugh's,</hi> and brought him constant in<g ref="char:EOLhyphen"/>telligence when he kept <hi>Harborough</hi> for the late King; as for the Testimony, it is absolutely false.</p>
+            <p>A second is one <hi>Robert Dove</hi> of <hi>Newton,</hi> who sayes he saw me drunk about five years since. This is a Souldier under Sir <hi>Hugh</hi> for the King, a prophane idle person, and a false witness, and this is he, speaks to libelling, <hi>viz.</hi> that I should write these words in a Bible.</p>
+            <l>John Ness <hi>is an honest man,</hi>
+            </l>
+            <l>
+               <hi>And so is</hi> John Swayles,</l>
+            <l>
+               <hi>And all the rest of the Town</hi>
+            </l>
+            <l>
+               <hi>Are pudding-belly'd Carles.</hi>
+            </l>
+            <p>VVhich is equally true with the former.</p>
+            <p>A third, is one <hi>John King</hi> of <hi>Newton,</hi> another of Sir <hi>Hugh's</hi> Ma<g ref="char:EOLhyphen"/>lignant Souldiers, a drunken licentious person, and therefore fit to make a false witness.</p>
+            <p>The fourth is <hi>John Brignel</hi> of <hi>Lamyston,</hi> in the County of <hi>Dur<g ref="char:EOLhyphen"/>ham,</hi> one I had never seen his face before the examination at <hi>Whit<g ref="char:EOLhyphen"/>bey,</hi> and this man makes me drunk at <hi>Scarborough,</hi> and to make his information seem more authentick, he sayes it was the 10 of <hi>Novemb.</hi> 1651. and that I made great remembrances of one wid<g ref="char:EOLhyphen"/>dow <hi>Stevenson,</hi> to omit that he was a Captain, (forsooth) in the <hi>Kings Army,</hi> and very famous for his plundering of the well-affected of <hi>Bishoprick,</hi> I answer to the Testimony that I was not that whole VVinter at <hi>Scarborough,</hi> and for widdow <hi>Stevenson,</hi> I am yet to learn whether there be any such woman in the world. This man for old acquaintance sake was often intertained at Sir <hi>Hugh's,</hi> about the time of examination, which certainly he the more deserved that he would take the pains to come near 50 miles to bear false witness to do him a courtesie.</p>
+            <p>The next is <hi>Rob. Hickson</hi> of <hi>Sunderland,</hi> in <hi>Bishoprick,</hi> an Of<g ref="char:EOLhyphen"/>ficer also as the former and his co-plunderer, and one famous for his fornications, <hi>&amp;c.</hi> in <hi>Holland,</hi> and is come as far as the former, and to break the ninth Commandment.</p>
+            <p>The next is <hi>Marmaduke Newton</hi> of <hi>Whitbey,</hi> who taxes me about four years since for reeling as I went into a boat at <hi>London.</hi>
+               <pb n="14" facs="tcp:154235:11"/>This is a Tenant of Sir <hi>Hugh's,</hi> and therefore more easily drawn on to bely his conscience and bear false witness against his neigh<g ref="char:EOLhyphen"/>bour. But was not this man, who by saying a few words, did pre<g ref="char:EOLhyphen"/>serve the favour of Sir <hi>Hugh,</hi> and got a Cow's summer grass into the bargain, wiser in his generation, than another Tenant of Sir <hi>Hugh's,</hi> who for refusing to subscribe a Petition against Mr. <hi>Knight</hi> was within an hour after warned out of his house and farm?</p>
+            <p>The last is <hi>Thom. Hodgson</hi> of <hi>Sneton,</hi> who sayes the same thing as the former, about five years since; Though they speak both of the same time, yet their Testimonies agree within a year. But for the latter; to omit a double desertion of the Parliaments forces, he is one so leavened against the present Government that his ordi<g ref="char:EOLhyphen"/>nary profession is, <hi>That he had rather serve the</hi> Turk <hi>than the</hi> Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>There was another witness against me, touching the point of drunkenness, though not returned in the examination. And that is one <hi>William Wiggoner.</hi> Though I cannot say this man did any thing out of any affection to Sir <hi>Hugh Cholmeley,</hi> who being for the Parl. had sent him prisoner to <hi>Hull,</hi> for having with his son <hi>Bagwith</hi> brought over Arms out of <hi>Holland,</hi> for the use of the late King. Yet his relation of Father-law to <hi>Conyers</hi> may excuse him for being a little <hi>cheuril</hi> conscienc'd. But the reason why his Testi<g ref="char:EOLhyphen"/>mony is concealed I conceive is, that, as he is himself a very <hi>habitual</hi> drunkard, so that very time he taxed me to have been <hi>drunk,</hi> he himself was so <hi>frolick,</hi> that as he sate at the Table he fell back<g ref="char:EOLhyphen"/>wards and broke his head. For his Testimony to the 4 Art. It is true, onely he hath mistaken a year or two.</p>
+            <p>Here are <hi>eight,</hi> and 'tis great pity they could not make up <hi>twelve,</hi> and so have made a <hi>Jury,</hi> they are such <hi>good men</hi> and <hi>true,</hi> and I think as well <hi>cull'd.</hi> Of this number there are but two of <hi>Whitbey,</hi> and what they are I have also expressed; But certainly had I been guilty of any inclination that way, the experience of almost 6 years could not but have furnished enemies to observe it. But it seems those who knew my conversation could charge me with no such thing, and therefore persons of <hi>lew'd lives, disaffected,</hi> and <hi>necessi<g ref="char:EOLhyphen"/>tous</hi> Souldiers of the <hi>Kings Army,</hi> and such as I had never seen their <hi>faces,</hi> must be <hi>pick'd</hi> even out of other Counties to inform
+<pb n="15" facs="tcp:154235:11"/>against me. But alas! they were such honest men at the examina<g ref="char:EOLhyphen"/>tion at <hi>Whitbey,</hi> that when I desired some of them might inform upon Oath, it was refused as a thing contrary to the rules of the Committee, and when I desired to speak what I could alleadge against them at the debate here, all such motions were confuted with a <hi>withdraw,</hi> the informations and Articles <hi>laugh'd at,</hi> and ta<g ref="char:EOLhyphen"/>ken as granted. But though I whom it most concerned, could not be permitted to speak much in my own case, yet I could perceive Mr. <hi>Phelpes</hi> had a <hi>liberty</hi> to <hi>aggravate,</hi> and <hi>suggest,</hi> for which I must say black to his <hi>tongue,</hi> since Mr. <hi>Millington</hi> sayes he is such an honest man, as <hi>no man can say black to his eye.</hi> But for this I must excuse him since it was but gratitude to carry on their de<g ref="char:EOLhyphen"/>signs whose free-will-offerings to him had been greater then mine. And that this is no slight suspition, let a discovery of Mr. <hi>Conyers</hi> speak, who acquaints his Father-in-law <hi>Wiggoner</hi> in a letter dated from <hi>London</hi> in 1649. that his prosecution of me had <hi>then</hi> cost him above 100 <hi>lib.</hi> (besides the 60 <hi>lib.</hi> he did <hi>emungere</hi> the Committee of for his non-residence in 1649. which if so, I onely make this question whether this man would not rather spend a <hi>noble</hi> to de<g ref="char:EOLhyphen"/>stroy the Gospel then <hi>nine pence</hi> to promote it. But what shall I say then, who, by reason of the troubles he hath created me, have spent the like sum in the <hi>necessary</hi> expences of <hi>journeys</hi> of 200 miles, <hi>inprisonments</hi> and <hi>attendance,</hi> when I have received for all my of<g ref="char:EOLhyphen"/>ficiating at <hi>Whitbey</hi> from 1647. but one 50 <hi>lib.</hi>
+            </p>
+            <p>And now I think I have made good what I promised, as to the witnesses against me, and yet done them no injury in the least. Yet by these and such like Testimonies, though taken, as I said before, without any attestation of Almighty God (which many times strikes terrour into the most impenitent heart) was I on the 28 of <hi>Decemb.</hi> last <hi>sequestred</hi> of all I could pretend to at <hi>Whitbey,</hi> where<g ref="char:EOLhyphen"/>in how fully the malice of my enemies hath been satisfied, and with what precipitation the business was carried against me may be soon judged by the perusal of this relation, in which I have neither ad<g ref="char:EOLhyphen"/>ded nor dimished, either to advantage my self, or wrong my pro<g ref="char:EOLhyphen"/>secutours.</p>
+            <p>As for the VVitnesses produced for me, it will not be amiss to let the world know what they are, least my enemies might say I
+<pb n="16" facs="tcp:154235:12"/>had as bad on my side. The first is <hi>John Newton</hi> of <hi>Whitbey</hi> Gent. a person whose activity and fidelity to the State had recommended him to the trust of a <hi>Sequestratour,</hi> an honest conscientious man, and stedfast to the interest of the Common-wealth in the most re<g ref="char:EOLhyphen"/>lapsing times.</p>
+            <p>
+               <hi>William Jackson</hi> of <hi>Whitbey</hi> an honest godly man, and Lieute<g ref="char:EOLhyphen"/>nant at Sea, under Captain <hi>Lawson.</hi>
+            </p>
+            <p>
+               <hi>Hen. Noble</hi> of <hi>Whitbey</hi> once Head-Constable, and one hath been much persecuted by Sir <hi>Hugh Cholmeley</hi> for his not contri<g ref="char:EOLhyphen"/>buting to the Kings forces.</p>
+            <p>
+               <hi>Rob. Bushel</hi> of <hi>Whitbey,</hi> a knowing and religious man, and a suf<g ref="char:EOLhyphen"/>fering <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the State.</p>
+            <p>
+               <hi>Hen. Awlder</hi> of <hi>Whitbey,</hi> a man of great reputation for his god<g ref="char:EOLhyphen"/>liness, and his early appearances for the Parliament in those parts.</p>
+            <p>
+               <hi>Hen. Linlay</hi> Gent. Collectour of the Customes at <hi>Whitbey,</hi> a constant well-willer to the State, and a great enemy to all vice and licentiousness.</p>
+            <p>These with divers more, to the number of near 40 men of honest lives and conversation, would have vindicated me as to the 8. and other Articles, had they been admitted to testifie; whereas had my prosecutours produced twice the number, they should not have been refused.</p>
+            <p>Thus having shewn what the VVitnesses on both sides were, I am now to express what discoveries I have of Sir <hi>Hugh Cholmeley's</hi> being in the <hi>head</hi> of this <hi>prosecution.</hi>
+            </p>
+            <p>Having as I said before <hi>prick'd</hi> down the Justices, the first thing I observed, was, his sending for divers of the inhabitants, desiring them to be present at the examination to testifie what they could against me; but it happening they were such as would not, to gra<g ref="char:EOLhyphen"/>tifie any man, bely their consciences, he dismissed them with threat<g ref="char:EOLhyphen"/>ning intreaties that they should say nothing for me.</p>
+            <p>A second thing was that which is related in answer to the Testimony of <hi>Marmaduke Nuton,</hi> pag. 13.</p>
+            <p>A third was the intertainment of two of the Justices, <hi>viz.</hi> Sir <hi>William,</hi> and Mr. <hi>Percehay,</hi> and most of the VVitnesses against me, before and after the examination, but especially that night, when he caused all to be <hi>drawn up,</hi> and to his own house what <hi>intertain<g ref="char:EOLhyphen"/>ments,
+<pb n="17" facs="tcp:154235:12"/>congratulations, acclamations,</hi> and <hi>Triumphs</hi> insued, the in<g ref="char:EOLhyphen"/>habitants of <hi>Whitbey</hi> are not ignorant.</p>
+            <p>But you will say what <hi>ends</hi> had Sir <hi>Hugh</hi> in all this? VVhy should he be at the expence of bringing VVitnesses 40 and 50 miles? These questions I confess may very well be made, for certainly it cannot be supposed he should put himself to all this trouble (besides a chargeable sollicitation at <hi>London</hi>) to cast out a poor man, which being a stranger to him could never have so far disobliged him, out of a living of 60 <hi>lib.</hi> a year. Therefore to answer the question more fully I must put the Ax to the root of the Tree, and disco<g ref="char:EOLhyphen"/>ver somewhat, which, though it be well known to many, is not to all, and among them, it may be, not to those whom it most concerns.</p>
+            <p>You are then to note that there lived once at <hi>Whitbey,</hi> one Mr. <hi>Jacob Hodgson,</hi> who being of the most forwardly affected for the Parliament commanded in the Town of <hi>Whitbey,</hi> this man Sir <hi>Hugh Cholmeley,</hi> after his base desertion from the Parliaments cause ever looked on as a thorn in his sides, for maintaining the Town of <hi>Whitbey,</hi> for the use of the Parliament. Such a burden I say was he to Sir <hi>Hugh,</hi> that he became immediatly a persecu<g ref="char:EOLhyphen"/>tour of him, and all that related to him, nay, the Town and Countrey thereabout suffered for his sake. This Tyranny he ex<g ref="char:EOLhyphen"/>ercised not onely while he commanded the Countrey about, but especially upon the taking of <hi>Whitbey</hi> by his forces, turning the aforesaid <hi>Hodgson's</hi> VVife out of doors, destroying all he had, and threatning that if she went not to <hi>Hull</hi> after her Husband, she should be tied to Horse tails with other Masters wives. But now I speak of the taking of that Town, I cannot but quote a <hi>famous ex<g ref="char:EOLhyphen"/>ploit</hi> of the aforesaid <hi>Conyers.</hi> This <hi>Conyers</hi> being at that time in the Town seemed to be very much for the Parliament, willing to oppose Sir <hi>Hughs</hi> forces, but pretending withall to be a person of some conduct, this Mr. <hi>Hodgson</hi> intrusted him with the <hi>Abbey,</hi> which he promised to make good with the number of men allowed him. In the mean time Letters were sent to Sir <hi>Hugh</hi> to advance with his forces at such a time, and that this <hi>Conyers</hi> was privy to the design may be judg'd by this adventure. The night that Sir <hi>Hugh</hi> was to come on, in stead of acquainting his men with the
+<pb n="18" facs="tcp:154235:13"/>danger of the enemies advance, to make them more secure, he sends up to the <hi>Abbey</hi> a Barrel or two of strong Beer; wherewith having laid some asleep and made the rest secure, he valiantly comes down the Hill alone into the Town, leaving both <hi>men</hi> and <hi>place</hi> to the mercy of the <hi>Enemy;</hi> And this courtesie I conceive is that which had so much ingratiated him with Sir <hi>Hugh,</hi> that there was no person thought fitter to <hi>manage</hi> my <hi>ruine,</hi> as being one more apt to <hi>destroy</hi> a <hi>Citizen</hi> then an enemy. But I return again to Sir <hi>Hugh.</hi> Now it pleased God to take away this Mr. <hi>Hodg son,</hi> in a Tempest upon the Coast of <hi>Holland,</hi> which accident laid his wife, and others related to him, more open to Sir <hi>Hugh's</hi> persecu<g ref="char:EOLhyphen"/>tions, and that this train of malice is laid against me upon these old scores, I need not much labour to make appear, for <hi>Hodgson</hi> being dead, my sad fortune was to have married his VViddow, who being before the mark of Sir <hi>Hugh's</hi> malice, brought me into his disfavour so much the more, as appears by an expression of Mr. <hi>Conyers</hi> after my sequestration, who said that my <hi>Wife had brought me to all this calamity.</hi> To this I may add that the yearly <hi>Stipend</hi> of <hi>Whitbey,</hi> as also the <hi>Augmentation</hi> being to be paid by Sir <hi>Hugh,</hi> as being the <hi>impropriatour,</hi> it concerned him somewhat, there should be such a Minister as would suffer his allowance to be carved out to him as he pleased, which had I been content with, Sir <hi>Hugh</hi> might have been my very good friend to this day.</p>
+            <p>But (to give the Devil his due as the Proverb speaks) I must here confess, that Sir <hi>Hugh</hi> is guilty of some Justice, though he will have it acknowledged as a <hi>favour,</hi> and measure it by his <hi>will.</hi> For about <hi>June</hi> last, he imployed his son Mr. <hi>Hugh Cholmeley</hi> to compound with me for my Arrears, for which he profered me 112 <hi>lib.</hi> which being not half of what, by several Orders, both of the Committee for <hi>plundered Ministers,</hi> and of the <hi>Trustees</hi> for <hi>maintenance</hi> of <hi>Ministers,</hi> was due to me I was advised to refuse. And this refusal (though just) hath cost me all the trouble, ex<g ref="char:EOLhyphen"/>pence, and inconveniences I have been at since, and consequently of the present sequestration I ly under. But that wherein I am to justifie Sir <hi>Hugh's</hi> proceedings in, is this, that he in <hi>June</hi> last, would willingly have taken up all differences and accounts with the <hi>foresaid</hi> sum, whereas after my sequestration, when I applied
+<pb n="19" facs="tcp:154235:13"/>my self to the <hi>Trustees</hi> for my Arrears, they found them to amount but to 60 <hi>lib.</hi> (which yet I cannot receive) as appears by their Or<g ref="char:EOLhyphen"/>der of <hi>Jan.</hi> 12. last, as if my sequestration had made me incapable of what was due to me for my former officiating.</p>
+            <p>But alas! he that knew Sir <hi>Hugh</hi> before, will not wonder at these transactions. He that before walk'd by no other principles than those of his <hi>will,</hi> should he startle at an action which he could justifie by his <hi>power?</hi> The story of one <hi>Thompson,</hi> nick<g ref="char:EOLhyphen"/>named <hi>Beef,</hi> is not yet forgotten at <hi>Whitbey,</hi> one hang'd up in <hi>cold bloud</hi> by Sir <hi>Hugh's</hi> Command, without any advice of Offi<g ref="char:EOLhyphen"/>cers. 'Tis true, the man had served under Sir <hi>Hugh,</hi> when he was for the Parliament; but when he became an <hi>Apostate</hi> he left him and listed himself under Col. <hi>Bointon,</hi> for which <hi>Crime</hi> Sir <hi>Hugh</hi> ha<g ref="char:EOLhyphen"/>ving now taken him a Prisoner, disparches him. If there be <hi>holes</hi> in the <hi>Act</hi> of <hi>Oblivion</hi> to let <hi>lesser fish</hi> escape, I hope there is none big enough for this <hi>Leviathan</hi> of <hi>Whitbey;</hi> For I see no reason but in<g ref="char:EOLhyphen"/>quisition may be made for this bloud.</p>
+            <p>And now I have done with Sir <hi>Hugh,</hi> having made good what I had promised in the former part of this relation, and shewn by what <hi>means</hi> and <hi>instruments,</hi> and upon what <hi>crimes</hi> and <hi>misdemea<g ref="char:EOLhyphen"/>nours</hi> my <hi>sequestration</hi> hath been brought about.</p>
+            <p>That which I beg of this Honourable Assembly, is to consider with what a strong hand this <hi>design</hi> hath been carried on, both here and at <hi>Whitbey;</hi> and thence observe how dangerous it is to suffer private Gentlemen to be <hi>Bashaws</hi> in their Countrey, and do things upon the bare score of their power and interest, and upon confidence that those whom they oppress, are unable to call them to account, or if they are, that things will be so disguised by false re<g ref="char:EOLhyphen"/>presentations that the weaker will be still over-ruled.</p>
+            <p>And this brings me to consider that there is a <hi>dormant</hi> humour of <hi>Malignancy,</hi> which upon opportunity <hi>awakens</hi> to the persecu<g ref="char:EOLhyphen"/>tion of <hi>honest</hi> men, which what it cannot do (as formerly) by a <hi>professed</hi> hostility, it does by <hi>ruses</hi> and <hi>supplantations;</hi> wherein good men are the further from redress, by how much they are <hi>crushed</hi> by their hands and Authority, who are intrusted to <hi>protect</hi> them.</p>
+            <p>They are the <hi>minings</hi> and insinuations of these men that de<g ref="char:EOLhyphen"/>praving
+<pb n="20" facs="tcp:154235:14"/>Courts and Committees secretly persecute the honest, and well-affected of the Land, who now are they that most cry out of oppression. These are they that make <hi>secret</hi> wounds in the Com<g ref="char:EOLhyphen"/>mon-wealth, and insensibly bring an <hi>Odium</hi> on your Govern<g ref="char:EOLhyphen"/>ment, while they make the World believe that you are fallen from those Principles of Reformation &amp; protection of honest men, which you professed before, even to the cutting off of that head which was the great <hi>anvile</hi> of all <hi>malicious</hi> and <hi>oppressive</hi> designs.</p>
+            <p>By these minings am I wrought out of my <hi>profession,</hi> rendered in<g ref="char:EOLhyphen"/>capable of doing that <hi>good</hi> which I have devoted my self unto, and made a spectacle of Misery and Calamity to honest men, and of scorn to the plotters of my ruine. And in this condition must I still remain, unless your Honours taking the business into your cognizance, and considering, and weighing both my offence and punishment, order me that redress which you in your high Wis<g ref="char:EOLhyphen"/>doms shall think meet, which, if I may obtain, I doubt not of the concurrence of all honest men to bless God with me for your Ju<g ref="char:EOLhyphen"/>stice, in <hi>breaking</hi> the <hi>designs</hi> of <hi>unrighteous</hi> and <hi>powerfull,</hi> and <hi>coun<g ref="char:EOLhyphen"/>tenancing</hi> those, who though <hi>poor</hi> and <hi>obscure,</hi> desire to do <hi>good</hi> and <hi>to live quietly in the Land.</hi>
+            </p>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Eclesiastes 41.</hi>
+                  </bibl> So I returned and considered all the <hi>oppressions</hi> that are wrought under the Sun, and behold the tears of the <hi>oppressed,</hi> and they had no <hi>Comforter,</hi> and on the side of the <hi>oppressours</hi> there was power, but <hi>they</hi> had no <hi>Comforter.</hi>
+               </q>
+            </epigraph>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Isai 5.7.</hi>
+                  </bibl> And he looked for <hi>Judgement,</hi> but behold <hi>oppression,</hi> and for <hi>righte<g ref="char:EOLhyphen"/>ousness,</hi> but behold a cry.</q>
+            </epigraph>
+            <epigraph>
+               <q>
+                  <bibl>Psalm 12.5.</bibl>
+                  <hi>For the</hi> oppression <hi>of the</hi> poor, <hi>for the sighing of the needy, now will I arise saith the Lord, I will set him in safety from him that puffeth at him.</hi>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="21" facs="tcp:154235:14"/>
+            <head>Post-script.</head>
+            <p>HAving given your Honours a faithfull account of the <hi>design</hi> of my <hi>Sequestration</hi> at the Committee for <hi>plundered Mini<g ref="char:EOLhyphen"/>sters,</hi> I am now to presume to add somewhat touching my suc<g ref="char:EOLhyphen"/>cess at the <hi>Trustees</hi> for <hi>maintenance</hi> of <hi>Ministers,</hi> to whom, in pursuance of the Orders of the former, I was to address my self for the <hi>Arrears</hi> of my officiating at <hi>Whitbey,</hi> having received but one 50 <hi>lib.</hi> from the beginning of 1647. to the 28 of <hi>Dec.</hi> 1652. and herein I proposed to my self the less difficulty, because it is a thing granted out of course to any <hi>Sequestred</hi> man, but how far I come short I shall briefly shew.</p>
+            <p>The Committee for <hi>plundered Ministers</hi> having as is before mentioned fully settled me at <hi>Whitbey</hi> by their Order of <hi>Dec.</hi> 11. 1650. thought fit, though I had officiated there onely as <hi>Lecturer,</hi> before that I should be considered, and hereupon granted me the following Order.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <opener>
+                           <dateline>
+                              <hi>At the Committee for</hi> plundred Ministers <date>
+                                 <hi>April</hi> 30. 1651.</date>
+                           </dateline>
+                        </opener>
+                        <p>VVhereas Mr. <hi>William Knight</hi> is setled by Order of this Com<g ref="char:EOLhyphen"/>mittee of the 11. of <hi>December</hi> in the Church of <hi>Whitbey,</hi> in the County of <hi>York,</hi> It is ordered that the said Mr. <hi>Knight</hi> shall have all Arrears of the Tithes and profits of the said Church, which fell and became due and payable for such time as he officiated the cure of the said Church, either <hi>before,</hi> or <hi>since</hi> his <hi>setlement</hi> there by Or<g ref="char:EOLhyphen"/>der of this Committee.</p>
+                        <closer>
+                           <signed>William Haye.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>VVith this, and other Orders, one I had imployed here to that purpose, applied himself to the <hi>Trustees</hi> for maintenance
+<pb n="22" facs="tcp:154235:15"/>of Ministers, but for the space of a whole year, all applications and attendance were fruitless, so that I was forced to importune the Committee to confirm and assert their former Orders, who there<g ref="char:EOLhyphen"/>upon issued this Order.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <byline>
+                           <hi>By the Committee for</hi> plundered Ministers, <date>
+                              <hi>April</hi> 30. 1652.</date>
+                        </byline>
+                        <p>VVhereas this Committee the 16 of <hi>October</hi> 1647. granted fifty pounds a year reserved to the <hi>Bishop</hi> of <hi>York,</hi> out of the Impro<g ref="char:EOLhyphen"/>priate Rectory of <hi>Whitbey,</hi> in the County of <hi>York,</hi> to and for in<g ref="char:EOLhyphen"/>crease of the maintenance of the Minister of the Parish-Church of <hi>Whitbey</hi> aforesaid, to comence from the 20 of <hi>May</hi> 1646. It is therefore Ordered that the <hi>Trustees</hi> for sale of <hi>Bishops Lands</hi> do and they are required to issue their Warrant to the Treasurers for sale of <hi>Bishops Lands</hi> to pay unto Mr. <hi>William Knight;</hi> Minister of <hi>Whitbey</hi> aforesaid, or unto Mr. <hi>Humphry Hatward</hi> to his use the sum of one hundred pounds for two years rent, of the premisses ending the five and twentieth day of <hi>March</hi> 1648.</p>
+                        <closer>
+                           <signed>James As'he. N. Lechmore. Tho. Lister. Peter Temple.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>I shall need quote but these two, to shew what is my due, though I have had Order upon Order, to the number of 16. or 17. from the Committee for <hi>plundred Ministers,</hi> the Committee for <hi>Regulating</hi> the <hi>Ʋniversities</hi> and the <hi>Trustees,</hi> which with the at<g ref="char:EOLhyphen"/>tendance and trouble to procure them, I dare affirm have cost me almost as much as I have gotten in pursuance of them.</p>
+            <p>But as for my <hi>obstruction</hi> at the <hi>Trustees</hi> I must attribute it to the same <hi>design</hi> &amp; <hi>interest</hi> of the <hi>Cholmeleyes,</hi> who here also <hi>with reason</hi> were to expect the <hi>assured</hi> favours of that <hi>plural Clark</hi> M. <hi>Phelpes.</hi> VVhen I demanded my right at <hi>Whitbey,</hi> I was answered, that the money was payed into the Treasury; when I inquired there, the answer was, it was not returned. And with these put offs both here and in the Countrey was I forced with my relations to be burthensome to friends, in hopes that one day (though with much trouble and suffering in the mean time) I should receive the <hi>ut<g ref="char:EOLhyphen"/>most farthing.</hi> And now that I thought the malice of my enemies
+<pb n="23" facs="tcp:154235:15"/>satisfied with my <hi>Sequestration,</hi> and that I was to apply my self to the <hi>Trustees</hi> I hoped <hi>the day</hi> was come. The accounts stand thus; For two years augmentation, which is 100 <hi>lib.</hi> and for three years stipend, which amounts to 30 <hi>lib.</hi> I am by the Committees Orders directed to <hi>Gurney</hi> house.</p>
+            <p>For the year 1649. Mr. <hi>Conyers</hi> surprised the Committee, and during my restraint at <hi>London,</hi> got the profits thereof, though I had solely officiated the third part of it. <hi>vid.</hi> pag. 5.</p>
+            <p>So that I am to receive of the <hi>Trustees</hi> for <hi>maintenance</hi> of <hi>Mi<g ref="char:EOLhyphen"/>nisters,</hi> for the years 1650. 1651. 1652. which amounts to 180 <hi>lib.</hi> whereof there being 50 received, there remains 130. And so much I without any dispute expected, but I found their recko<g ref="char:EOLhyphen"/>ning far otherwise. For being after a long attendance at the door called in, I was told, by Sir <hi>John Thorowgood,</hi> that upon adjusting of all accounts and a calculation of the time I had been setled, <hi>viz.</hi> from <hi>December</hi> 11. 1650. they found there was no more due to me then 60 <hi>lib.</hi> for which if I pleased I might have an Order, to answer, which, I produced the Orders of the Committee for 1650. before I was setled. To take away with answer and at once con<g ref="char:EOLhyphen"/>fute all Orders, and further replies; <hi>Zealous</hi> Sir <hi>John</hi> returned somewhat to this effect, Mr. Knight <hi>we are more carefull of you then you your self, but there are many other poor</hi> Ministers <hi>to be supplied: I do not think the Committee for</hi> plundred Ministers <hi>intend any Ar<g ref="char:EOLhyphen"/>rears before setlement to a Minister, whom they have found cause to Sequester.</hi> By this it appears Sir <hi>John</hi> is not meanly furnished with <hi>Evasions</hi> (though but slight ones, when he hath a minde to do a business. But as for the <hi>poor Ministers</hi> he objects to me, I think <hi>hee is a poor Minister</hi> that is forced to live 5 or 6 years upon one 50 <hi>lib.</hi> But another thing that fell from him was as remark<g ref="char:EOLhyphen"/>able when it was considered whence I should receive this 60 <hi>lib.</hi> which was my due, he said of Mr. <hi>Harward</hi> Receiver in <hi>York-shire,</hi> wherein whether Sir <hi>John</hi> dealt ingeniously let this Order (posted up at <hi>Whitbey,</hi> by the <hi>Cholmleyes</hi>) speak.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <byline>By the <hi>Trustees</hi> for Maintenance of Ministers <date>
+                              <hi>Octob.</hi> 6. 1652.</date>
+                        </byline>
+                        <p>VVilliam Cholmeley Esq; <hi>Tenant of the appropriate Rectory of</hi> Whitbey, <hi>in the County of</hi> York, <hi>hath exhibited his accounts of the Rent of the said Rectory, due from the first of</hi> Decemb. 1641. <hi>to the
+<pb n="24" facs="tcp:154235:16"/>ninth of</hi> Octob. 1646. <hi>and from the ninth of</hi> Jan. 1649. <hi>to the first of</hi> Octob. <hi>instant, upon examining and stating whereof it appears to the</hi> Trustees, <hi>that sixty seven pounds thirteen shillings four pence was in Arrear the</hi> 29 <hi>of</hi> Sept. <hi>last, of the Rent due to the said</hi> Trustees <hi>for the said years, which said sixty seven pounds thirteen shillings four pence he hath since payed into the Treasury, as by the Treasurers ac<g ref="char:EOLhyphen"/>quittances appears, it is therefore Ordered that Mr.</hi> Humphrey Harward <hi>receiver do forthwith discharge the said Rectory, and Tythes and profits thereof, of and from any Seizure by him the said Mr.</hi> Har<g ref="char:EOLhyphen"/>ward <hi>made for default of paiment of his Rent as aforesaid, and to deli<g ref="char:EOLhyphen"/>ver unto him whatsoever goods, or Cattels of the said Mr.</hi> Cholme<g ref="char:EOLhyphen"/>leyes, <hi>he hath distrained for the said Mr.</hi> Cholmeleys <hi>detainer of the said Rent; and to the end, the said Mr.</hi> Cholmeley <hi>may not in time to come receive any just discouragement in paiment of his Rent, the said Mr.</hi> Harward <hi>hereby is further appointed in all fair and due ways to assist the said Mr.</hi> Cholmeley, <hi>in his quiet injoyment of the said Re<g ref="char:EOLhyphen"/>ctory and profits thereof, according to his Lease in that behalf, and the said Parishioners of the said Parish of</hi> Whitbey <hi>aforesaid, are from time to time to pay unto the said Mr.</hi> Cholmeley <hi>all Tythes due from them unto him in right of the said Rectory, as also all Arrers of Tythes by them any way kept or detained by virtue of any inhibition, or stop made of them by any Order, or direction from the said</hi> Trustees, <hi>or of the said Mr.</hi> Harward <hi>receiver by his or their appointment.</hi>
+                        </p>
+                        <closer>Vera Copia.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>But that not taking, the Order was to be directed to Mr. <hi>Steel,</hi> to which a stander by, saying, that Mr. <hi>Steel</hi> had no such moneys in his hands, &amp; that therefore all addresses there were vain, Mr. <hi>Phelpes conscious it seems of somewhat replied, it may be 'tis thought the</hi> Tru<g ref="char:EOLhyphen"/>stees, <hi>or the</hi> Clark <hi>have the money;</hi> wherein he was in the right, yet the Order was directed to Mr. <hi>Steel,</hi> of my applications to whom I am now to give an account.</p>
+            <p>The first time I went to him, all the answer I could get was that he would speak with the <hi>Trustees</hi> about it, whereby I conceive he was somewhat surpriz'd with the Order, which required him to pay the moneys he had never received.</p>
+            <p>The next time he told me that he was to be accountable to me for that money, but withall disavowed the receiving of any, though he
+<pb n="22" facs="tcp:154235:16"/>had given Mr. <hi>Cholmeley</hi> an acquittance for it, and all the comfort I had from him was, that as soon as any money came in I should be considered, but when that should be, he knew not.</p>
+            <p>Here is a strange <hi>shuffling</hi> of men's affairs. Sir <hi>John Thorowgood</hi> would turn me over to <hi>Harward,</hi> though by the foregoing Order utterly discharged of the business. But that I conceive was onely to remove me 200 miles hence. That not taking I am directed to Mr. <hi>Steel,</hi> who disavows the receit of the money, though he had given <hi>Cholmeley</hi> an acquittance for it. <hi>Cholmeley</hi> in the mean time posts up the Order of the <hi>Trustees</hi> that he satisfied the <hi>Treasury,</hi> though while he was transacting this business here, there was no ad<g ref="char:EOLhyphen"/>mittance for any that I imployed, either to see Orders or know what was done. Mr. <hi>Steels</hi> man sayes this was the first acquittance ever granted without money received. Mr. <hi>Phelpes</hi> doubts the <hi>Tru<g ref="char:EOLhyphen"/>stees,</hi> or the <hi>Clark</hi> have the money. The <hi>Trustees</hi> wave that and send me where I am not like to have any.</p>
+            <p>What a <hi>conspiracy</hi> of <hi>Intrigues</hi> is here to turn me from <hi>post</hi> to <hi>pillar</hi> to no purpose? Thus am I put to a fruitless, though no small expence for Orders; to a chargeable, yet endless attendance, whereof the issue must be to be laught out of my subsistance, and <hi>cut out</hi> for misery with those that depend on me. Well MALIGNANCY! <hi>Thou</hi> shalt be the <hi>Childe of this generation; Thou</hi> art so <hi>wise,</hi> so <hi>pro<g ref="char:EOLhyphen"/>vident,</hi> so <hi>cautious,</hi> that thy <hi>designs</hi> are so far from preventing, that they are hard to be discovered when they have wrought their effect. <hi>Thou</hi> needest not grieve thy <hi>exclusion</hi> from <hi>places</hi> of <hi>trust,</hi> since, as the <hi>Roman</hi> said of Gold, that it was better be masters of those that have it, then possess the Gold it self; so maist <hi>thou</hi> say. That to be able to <hi>insinuate</hi> into, and <hi>corrupt</hi> those in places of trust is <hi>equiva<g ref="char:EOLhyphen"/>lent</hi> to having their places. If thou <hi>direct</hi> the sword of Justice to <hi>strike,</hi> it matters not who <hi>holds</hi> it.</p>
+            <p>Right Honourable, and righteous <hi>Judges of the Land,</hi> I beseech you judge between me, and my adversaries in this case. Have you erected <hi>Committees,</hi> have you appointed <hi>Trustees</hi> for the <hi>Protecti<g ref="char:EOLhyphen"/>on,</hi> or for the <hi>oppression</hi> of <hi>honest men?</hi> Do these men answer your expectations of them, who instead of <hi>relieving</hi> the <hi>Godly</hi> and <hi>well-affected, crush</hi> and <hi>dishearten</hi> them to gratifie the <hi>supplanting</hi> enemy? I am <hi>discharged</hi> my <hi>profession</hi> rendred <hi>unserviceable</hi> to that <hi>design</hi> of <hi>providence,</hi> which I had with a sincere and upright heart submit<g ref="char:EOLhyphen"/>ted
+<pb n="26" facs="tcp:154235:17"/>unto, and at once made an useless Member of the <hi>Common<g ref="char:EOLhyphen"/>wealth,</hi> and with my Wife and 4 Children exposed to misery and want, and that which adds to the burden of my affliction is to con<g ref="char:EOLhyphen"/>sider, by what means and instruments my ruine is brought about. For wheresoever I turn my self whether to <hi>Committees, Trustees, Treasurers,</hi> nay, when I have to do but with <hi>Clarks</hi> (those Perni<g ref="char:EOLhyphen"/>cious <hi>earwigs</hi>) I finde them prepossessed by the self-same interest, and all my hopes <hi>defeated</hi> with <hi>delays</hi> and <hi>elusions,</hi> which puts me in minde of the words of <hi>David</hi> to the Woman of <hi>Tekoah, Hath not the hand of</hi> Joab <hi>been with thee in all this?</hi> I make not my <hi>services</hi> and <hi>sufferings</hi> for the <hi>interest</hi> of the <hi>Common-wealth,</hi> a ground to desire any thing of your Honours; all that I beg is out of my right to Justice, what I desire more let it be refused, and the presumption punish'd. I must confess I am a man of a low and quiet spirit, and thence it may be thought that the compassing of my ruine is not so great a miracle. But I fear me, if inquisition were made, there would be found many instances of persons more active and better acquainted with the affairs of the Committees, and the world, that have complaints in their bosoms against the <hi>exorbitancy</hi> and <hi>Tyran<g ref="char:EOLhyphen"/>ny</hi> of <hi>mercenary Clarks,</hi> and others, who being too <hi>familiar</hi> with persons in Authority, <hi>divert</hi> them from the <hi>relief</hi> of <hi>honest men,</hi> and <hi>work</hi> them <hi>insensibly</hi> to <hi>gratifie</hi> those whose very <hi>acquaintance</hi> not long since was a <hi>contagion.</hi> I shall make an <hi>end</hi> though my heart be <hi>full,</hi> beseeching your Honours to consider the sad condition I am brought into, by the crooked dealings of some men; wherein all that I beg is JUSTICE.</p>
+            <closer>
+               <dateline>
+                  <date>Febr. 12. 1652/3.</date>
+               </dateline>
+            </closer>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Micah. 7.8, 9, 10.</hi>
+                  </bibl>
+                  <p>Rejoyce not against me, O <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ine enemy, when I <hi>fall</hi> I shall arise, when I sit in <hi>darkness,</hi> the Lord shall be a <hi>light</hi> unto me.</p>
+                  <p>I will bear the <hi>indignation</hi> of the Lord, because I have <hi>sinned</hi> against him, untill he plead my <hi>cause,</hi> and execute <hi>Judgement</hi> for me, he will bring me forth to the light, and I shall behold his <hi>Righteousness.</hi>
+                  </p>
+                  <p>Then they which be mine enemies shall see it, and shame shall cover them which said unto me, where is the Lord thy God: mine eys shall behold them, and now shall they be troden down as the mire of the streets.</p>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154235:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
